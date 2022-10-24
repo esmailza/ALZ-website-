@@ -1,0 +1,28 @@
+ //@import url("https://fonts.googleapis.com/css?family=Noto+Sans|Helvetica|Work+Sans&display=swap");
+ // @import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@700&display=swap');
+//@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,400;1,300&display=swap');
+
+
+
+
+
+$body-font-family: 'Work Sans', Helvetica, Arial, sans-serif;
+$heading-font-family: 'Work Sans', Helvetica, Arial, sans-serif;
+$font-size-root: 16px;
+$input-font-size: 16px;
+// $input-font-weight: 300;
+$input-letter-spacing: normal;
+
+
+
+$material-dark: (
+  'app-bar': #0D19A3,
+  'cards': #212121,
+  'tabs': #FFFFFF
+);
+
+$material-light: (
+  'app-bar': #FFFFFF,
+  'cards': #FFFFFF
+);
